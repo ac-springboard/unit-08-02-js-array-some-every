@@ -1,1 +1,1 @@
-# unit-08-01-js-array-some-every
+# unit-08-02-js-array-some-every
